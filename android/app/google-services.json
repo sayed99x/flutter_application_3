@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "69638460722",
+    "firebase_url": "https://spry-autumn-250814-default-rtdb.firebaseio.com",
+    "project_id": "spry-autumn-250814",
+    "storage_bucket": "spry-autumn-250814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69638460722:android:3fb1c88c94b5b24560b32b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69638460722-uuncqpnh5lt71fhddkqadpbjkgumgusl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_3",
+            "certificate_hash": "4cc08479fad0bf094cf76544e8864da819f89398"
+          }
+        },
+        {
+          "client_id": "69638460722-52d10peluu0i4pa412d3i74nkop9nb4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpD4NWD8P2_-PUVsasvY2kK8v9G895gZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69638460722-52d10peluu0i4pa412d3i74nkop9nb4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
